@@ -1,4 +1,6 @@
-//import HORSESIM.Horse; 
+package Part2;
+
+import Part1.Horse; 
 import java.util.concurrent.TimeUnit;
 import java.lang.Math;
 import javax.swing.*;
