@@ -1,3 +1,6 @@
+
+package Part1;
+
 /**
  * Write a description of class Horse here.
  * 
